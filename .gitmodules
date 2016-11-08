@@ -1,0 +1,51 @@
+[submodule "firmware-analysis-toolkit"]
+	path = firmware-analysis-toolkit
+	url = https://github.com/attify/firmware-analysis-toolkit
+[submodule "MEAnalyzer"]
+	path = MEAnalyzer
+	url = https://github.com/platomav/MEAnalyzer
+[submodule "sasquatch"]
+	path = sasquatch
+	url = https://github.com/devttys0/sasquatch
+[submodule "rpef"]
+	path = rpef
+	url = https://github.com/mncoppola/rpef
+[submodule "ipmi_firmware_tools"]
+	path = ipmi_firmware_tools
+	url = https://github.com/devicenull/ipmi_firmware_tools
+[submodule "Firmware_web_rce_finder"]
+	path = Firmware_web_rce_finder
+	url = https://github.com/Ganapati/Firmware_web_rce_finder
+[submodule "firmware-mod-kit"]
+	path = firmware-mod-kit
+	url = https://github.com/mirror/firmware-mod-kit
+[submodule "binwalk"]
+	path = binwalk
+	url = https://github.com/devttys0/binwalk
+[submodule "firmadyne"]
+	path = firmadyne
+	url = https://github.com/firmadyne/firmadyne
+[submodule "fwexpl"]
+	path = fwexpl
+	url = https://github.com/Cr4sh/fwexpl
+[submodule "UEFITool"]
+	path = UEFITool
+	url = https://github.com/LongSoft/UEFITool
+[submodule "jefferson"]
+	path = jefferson
+	url = https://github.com/sviehb/jefferson
+[submodule "ubi_reader"]
+	path = ubi_reader
+	url = https://github.com/jrspruitt/ubi_reader
+[submodule "cemu"]
+	path = cemu
+	url = https://github.com/hugsy/cemu
+[submodule "firmware-tools"]
+	path = firmware-tools
+	url = https://github.com/rssnsj/firmware-tools
+[submodule "firminsight"]
+	path = firminsight
+	url = https://github.com/ilovepp/firminsight
+[submodule "oh-brother"]
+	path = oh-brother
+	url = https://github.com/CauldronDevelopmentLLC/oh-brother
