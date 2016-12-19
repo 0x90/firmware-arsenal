@@ -49,3 +49,6 @@
 [submodule "oh-brother"]
 	path = oh-brother
 	url = https://github.com/CauldronDevelopmentLLC/oh-brother
+[submodule "crosstool-ng"]
+	path = crosstool-ng
+	url = https://github.com/crosstool-ng/crosstool-ng
