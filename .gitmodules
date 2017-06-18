@@ -52,3 +52,18 @@
 [submodule "crosstool-ng"]
 	path = crosstool-ng
 	url = https://github.com/crosstool-ng/crosstool-ng
+[submodule "cpu_rec"]
+	path = cpu_rec
+	url = https://github.com/airbus-seclab/cpu_rec/
+[submodule "yaffshiv"]
+	path = yaffshiv
+	url = https://github.com/devttys0/yaffshiv
+[submodule "scraper"]
+	path = scraper
+	url = https://github.com/firmadyne/scraper
+[submodule "Dahua-Firmware-Mod-Kit"]
+	path = Dahua-Firmware-Mod-Kit
+	url = https://github.com/BotoX/Dahua-Firmware-Mod-Kit
+[submodule "firmware-mod-kit-osx"]
+	path = firmware-mod-kit-osx
+	url = https://github.com/cinquemb/firmware-mod-kit-osx
