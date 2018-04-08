@@ -112,3 +112,15 @@
 [submodule "PySquashfsImage"]
 	path = PySquashfsImage
 	url = https://github.com/matteomattei/PySquashfsImage
+[submodule "binwalk-new"]
+	path = binwalk-new
+	url = https://github.com/ReFirmLabs/binwalk
+[submodule "uefi-firmware-parser"]
+	path = uefi-firmware-parser
+	url = https://github.com/theopolis/uefi-firmware-parser
+[submodule "me_cleaner"]
+	path = me_cleaner
+	url = https://github.com/corna/me_cleaner
+[submodule "image-manager"]
+	path = image-manager
+	url = https://github.com/dojot/image-manager
