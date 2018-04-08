@@ -67,3 +67,48 @@
 [submodule "firmware-mod-kit-osx"]
 	path = firmware-mod-kit-osx
 	url = https://github.com/cinquemb/firmware-mod-kit-osx
+[submodule "unME11"]
+	path = unME11
+	url = https://github.com/ptresearch/unME11
+[submodule "parseMFS"]
+	path = parseMFS
+	url = https://github.com/ptresearch/parseMFS
+[submodule "IntelME-JTAG"]
+	path = IntelME-JTAG
+	url = https://github.com/ptresearch/IntelME-JTAG
+[submodule "firminator_backend"]
+	path = firminator_backend
+	url = https://github.com/misterch0c/firminator_backend
+[submodule "lzma-unpacker"]
+	path = lzma-unpacker
+	url = https://github.com/bmaia/lzma-unpacker
+[submodule "me-tools"]
+	path = me-tools
+	url = https://github.com/skochinsky/me-tools
+[submodule "meloader"]
+	path = meloader
+	url = https://github.com/embedi/meloader
+[submodule "IDAPythonEmbeddedToolkit"]
+	path = IDAPythonEmbeddedToolkit
+	url = https://github.com/maddiestone/IDAPythonEmbeddedToolkit
+[submodule "firmflaws"]
+	path = firmflaws
+	url = https://github.com/Ganapati/firmflaws
+[submodule "tplink-vxworks-based-firmware"]
+	path = tplink-vxworks-based-firmware
+	url = https://github.com/LeeXiaolan/tplink-vxworks-based-firmware
+[submodule "hdd_firmware_tools"]
+	path = hdd_firmware_tools
+	url = https://github.com/eurecom-s3/hdd_firmware_tools
+[submodule "PYaffs"]
+	path = PYaffs
+	url = https://github.com/mattboyer/PYaffs
+[submodule "Yapr-forensics"]
+	path = Yapr-forensics
+	url = https://github.com/umass-forensics/Yapr-forensics
+[submodule "YaffsParser"]
+	path = YaffsParser
+	url = https://github.com/rjwalls/YaffsParser
+[submodule "PySquashfsImage"]
+	path = PySquashfsImage
+	url = https://github.com/matteomattei/PySquashfsImage
