@@ -124,3 +124,6 @@
 [submodule "image-manager"]
 	path = image-manager
 	url = https://github.com/dojot/image-manager
+[submodule "firmanal"]
+	path = firmanal
+	url = https://github.com/kyechou/firmanal
