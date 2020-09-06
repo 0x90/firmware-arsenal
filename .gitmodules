@@ -127,3 +127,6 @@
 [submodule "firmanal"]
 	path = firmanal
 	url = https://github.com/kyechou/firmanal
+[submodule "Firmware_Slap"]
+	path = Firmware_Slap
+	url = https://github.com/ChrisTheCoolHut/Firmware_Slap
