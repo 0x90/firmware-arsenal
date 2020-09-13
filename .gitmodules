@@ -130,3 +130,6 @@
 [submodule "Firmware_Slap"]
 	path = Firmware_Slap
 	url = https://github.com/ChrisTheCoolHut/Firmware_Slap
+[submodule "fwanalyzer"]
+	path = fwanalyzer
+	url = https://github.com/cruise-automation/fwanalyzer
